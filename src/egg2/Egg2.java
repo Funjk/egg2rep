@@ -19,4 +19,5 @@ public class Egg2 {
         
     }
     private String status1;
+    private String status2;
 }
